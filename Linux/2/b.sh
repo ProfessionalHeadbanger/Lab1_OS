@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo cp bezr /usr/bin
-chmod +x /usr/bin/bezr
+chmod g+x /usr/bin/bezr
 
 sudo mv raz.lib /usr/lib
 
