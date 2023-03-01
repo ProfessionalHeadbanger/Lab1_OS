@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo mv bezr /usr/bin
+sudo cp bezr /usr/bin
 chmod +x /usr/bin/bezr
 
 sudo mv raz.lib /usr/lib
