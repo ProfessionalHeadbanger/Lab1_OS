@@ -2,7 +2,7 @@
 sudo cp bezr /usr/bin
 chmod g+x /usr/bin/bezr
 
-sudo mv raz.lib /usr/lib
+sudo cp raz.lib /usr/lib
 
 sudo mkdir /share/bryantsev
 sudo mv rez.res /share/bryantsev
